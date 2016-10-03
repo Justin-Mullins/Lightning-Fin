@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6F5B48F0-D5A0-CFB5-A7F8-00E35F9DCFF6}") = "Lightning Fin", "Assembly-CSharp.csproj", "{38E1BD05-FF40-CFB4-21D6-8DC3E09A80BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E1BD05-FF40-CFB4-21D6-8DC3E09A80BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E1BD05-FF40-CFB4-21D6-8DC3E09A80BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E1BD05-FF40-CFB4-21D6-8DC3E09A80BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E1BD05-FF40-CFB4-21D6-8DC3E09A80BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
